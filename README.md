@@ -4,6 +4,8 @@ With the spirit of reproducible research, this repository contains all the codes
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
+![alt text](https://github.com/Soumyabrata/clear-sky-models/blob/master/Figs/sample-solar-model.pdf "sample solar irradiance")
+
 ## Code Organization
 The codes are written in python.
 
